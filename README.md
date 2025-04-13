@@ -1,5 +1,7 @@
 # Restaurant POS System
 [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/lifely0boop/restaurant_pos_system)](https://securityscorecards.dev/viewer/?uri=github.com/lifely0boop/restaurant_pos_system)
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/10347/badge)](https://www.bestpractices.dev/projects/10347)
+
 
 
 
