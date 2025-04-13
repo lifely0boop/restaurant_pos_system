@@ -2,7 +2,6 @@
 ![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/lifely0boop/restaurant_pos_system/badge)
 
 
-
 A Point of Sale (POS) system designed for restaurants. This system manages sales, inventory, orders, and payments, making it easier for restaurant staff to process transactions and maintain records efficiently.
 
 ## Features
