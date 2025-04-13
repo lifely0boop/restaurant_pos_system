@@ -11,5 +11,4 @@ Thank you for helping improve our QT-based Point of Sale system! Here's how to g
 1. Fork this repository
 2. Clone your fork:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/POS_System.git
-   cd POS_System
+   git clone https://github.com/lifely0boop/restaurant_pos_system.git
