@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>Chicken Nugget.png</file>
+        <file>lemon.png</file>
+        <file>pepsi.png</file>
+        <file>Coffee.png</file>
+        <file>Hot dog.png</file>
+        <file>Burger.png</file>
+        <file>Burritos.png</file>
+        <file>Onion rings.png</file>
+        <file>Pizza.png</file>
+        <file>Fries.png</file>
+        <file>Churros.png</file>
+        <file>Icetea.png</file>
+        <file>Side.png</file>
+        <file>Drink.png</file>
+        <file>Main.png</file>
+        <file>Trash.png</file>
+        <file>Background.png</file>
+        <file>Store_logo.png</file>
+    </qresource>
+</RCC>
