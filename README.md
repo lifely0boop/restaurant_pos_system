@@ -1,5 +1,5 @@
 # Restaurant POS System
-![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/lifely0boop/restaurant_pos_system/badge)
+![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/lifely0boop/restaurant_pos_system)
 
 
 
